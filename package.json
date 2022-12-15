@@ -1,6 +1,6 @@
 {
   "name": "countdown-app-react",
-  "homepage": "http://barbaragagro.github.io/",
+  "homepage": "http://barbaragagro.github.io/countdown.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
